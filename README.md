@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Phan Tan Kiet
-- 🌱 I’m currently learning Web Development.
 - ♾️ My passion is Web3 and Cryptocurrency.
 <!---
 phaniel1111/phaniel1111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
