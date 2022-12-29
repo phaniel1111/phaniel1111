@@ -1,5 +1,4 @@
 <p> <a href="https://twitter.com/phaniel1111" target="blank"><img src="https://img.shields.io/twitter/follow/phaniel1111?label=Follow&logo=twitter&style=flat-square" alt="phaniel1111" /></a>
-<a href="https://twitter.com/phaniel1111" target="blank"><img src="https://img.shields.io/twitter/follow/phaniel1111?label=phaniel1111&logo=twitter&logoColor=blue&style=flat-square" alt="phaniel1111" /></a>
 </p>
   
 - 👋 Hi, I’m Phan Tan Kiet.
