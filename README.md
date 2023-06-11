@@ -7,7 +7,7 @@
 - ♾️ I am interested in web3 and cryptocurrency.
 - ✨ I want to have a freelance or remote job.
   
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=phaniel1111&show_icons=true&theme=transparent&locale=en&layout=compact" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=phaniel1111&hide=jupyter%20notebook&show_icons=true&theme=transparent&locale=en&layout=compact" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api?username=phaniel1111&show_icons=true&theme=transparent&locale=en" /></p>
 
 
